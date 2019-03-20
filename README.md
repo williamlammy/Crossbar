@@ -32,5 +32,5 @@ Crossbar test bench perform 9 states:
     s_rdata2 = 2000;
     
 Best regards,
-Michael Gaydukov
+Michael Gaidukov
       
